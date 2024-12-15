@@ -8,11 +8,11 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Personal website"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://guopenglieco.github.io/gplacademic.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -26,9 +26,9 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "China"
-  employer         : # "Red Brick University"
+  employer         : # "Huazhong University of Science and Technology"
   uri              : # URL
-  email            : "guopengli@hust.edu.cn" 
+  email            : "guopengli@hust.edu.cn"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
