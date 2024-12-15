@@ -7,6 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year phd student!
+I am a third-year phd student in economics!
 
 
