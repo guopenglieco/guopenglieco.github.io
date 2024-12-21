@@ -8,7 +8,7 @@ redirect_from:
 ---
 Welcome to my homepage!
 
-I am a third-year phd student in Huazhong university of science and technology.
+I am a third-year phd student in Huazhong University of Science and Technology.
 
 My research interests include digital economics and network economics.
 
