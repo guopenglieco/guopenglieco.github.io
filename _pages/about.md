@@ -12,7 +12,7 @@ I am a third-year phd student in Huazhong University of Science and Technology.
 
 My research interests include digital economics and network economics.
 
-Especially, I want to use game theory to investigate how strategic substitutes between agents' actions shapes some interesting phenomenons.
+Especially, I want to use game theory to investigate how strategic substitutes between agents' actions shapes some interesting phenomenons. You can reach me at: guopengli@hust.edu.cn
 
 
 # Publication
