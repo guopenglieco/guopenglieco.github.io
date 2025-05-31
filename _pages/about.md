@@ -15,6 +15,50 @@ My research interests include digital economics and network economics.
 Especially, I want to use game theory to investigate how strategic substitutes between agents' actions shapes some interesting phenomenons. You can reach me at: guopengli@hust.edu.cn
 
 
+# Working Papers
+<ol>
+
+<li>
+  <strong>
+    <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5132125" target="_blank">
+      Sure Friends in Unsure Times: Opportunity Network and Activated Subnetwork for Risk-Sharing
+    </a>
+  </strong>  
+  <em>(with Zhigang Cao and Yiqing Xing).</em> 2025
+  <details>
+    <summary><strong>Abstract</strong></summary>
+    <p>
+      In a favor exchange (informal risk-sharing) environment, we distinguish an opportunity network from an endogenously activated subnetwork, the former captures pairs of agents who can potentially help each other while the latter represents those who actually provide assistance in equilibrium. We show that an activated subnetwork normally consists of like friends, each having a moderate and similar number of activated links, even when they have diverse degrees in the opportunity network. We find that trees and preferential-attachment networks are generally ineffective for risk-sharing. We also show that an increase in the intensity of negative shocks does not necessarily lead to a decline in social welfare.
+    </p>
+  </details>
+</li>
+
+
+  
+  <li>
+    <strong>Pricing and Information Acquisition in Networks</strong>  
+    <em>(with Yifan Xiong, and Youze Lang).</em> 
+    <em>R&R at Games and Economic Behavior</em>, 2025
+    <details>
+      <summary><strong>Abstract</strong></summary>
+      <p> This paper investigates how a monopolist strategically acquires information from networked consumers with correlated preferences using discriminatory or uniform pricing schemes. Under uniform pricing, the optimal information acquisition problem can
+be efficiently solved in polynomial time by iteratively selecting consumers with the
+highest Katz-Bonacich centrality. By contrast, under discriminatory pricing, the prob-
+lem is generally NP-hard. However, in typical networks, such as complete bipartite,
+core-periphery, and nested-split networks, the optimal targeted group can be charac-
+terized in a straightforward manner: the monopolist simply prioritizes consumers with
+higher degrees. A comparative analysis shows that the size of the optimal targeted
+group decreases with information cost but follows an inverted U-shape with respect to
+preference correlation. Allowing the monopolist to acquire information always reduces
+welfare under discriminatory pricing, whereas under uniform pricing, the impact is not
+necessarily negative.
+      </p>
+    </details>
+  </li>
+
+</ol>
+
+
 # Publication
 
 <ol>
@@ -50,29 +94,4 @@ Especially, I want to use game theory to investigate how strategic substitutes b
 </ol>
 
 
-# Working Papers
-<ol>
 
-  <li>
-    <strong>Pricing and Information Acquisition in Networks</strong>  
-    <em>(with Yifan Xiong, and Youze Lang).</em> 
-    <em>R&R at Games and Economic Behavior</em>, 2025
-    <details>
-      <summary><strong>Abstract</strong></summary>
-      <p> This paper investigates how a monopolist strategically acquires information from networked consumers with correlated preferences using discriminatory or uniform pricing schemes. Under uniform pricing, the optimal information acquisition problem can
-be efficiently solved in polynomial time by iteratively selecting consumers with the
-highest Katz-Bonacich centrality. By contrast, under discriminatory pricing, the prob-
-lem is generally NP-hard. However, in typical networks, such as complete bipartite,
-core-periphery, and nested-split networks, the optimal targeted group can be charac-
-terized in a straightforward manner: the monopolist simply prioritizes consumers with
-higher degrees. A comparative analysis shows that the size of the optimal targeted
-group decreases with information cost but follows an inverted U-shape with respect to
-preference correlation. Allowing the monopolist to acquire information always reduces
-welfare under discriminatory pricing, whereas under uniform pricing, the impact is not
-necessarily negative.
-      </p>
-    </details>
-  </li>
-
-   
-</ol>
