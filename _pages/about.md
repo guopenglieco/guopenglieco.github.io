@@ -20,7 +20,7 @@ Especially, I want to use game theory to investigate how strategic substitutes b
 
 <li>
   <strong>Sure Friends in Unsure Times: Opportunity Network and Activated Subnetwork for Risk-Sharing <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5132125" target="_blank">[SSRN]</a> </strong>  
-  <em>(with Zhigang Cao and Yiqing Xing).</em> 2025
+  <em>(with Zhigang Cao and <a href="https://sites.google.com/view/yiqingxing/home" target="_blank">    Yiqing Xing   </a>).</em> 2025
   <details>
     <summary><strong>Abstract</strong></summary>
     <p>
