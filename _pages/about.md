@@ -88,6 +88,16 @@ necessarily negative.
       </p>
     </details>
   </li>
+
+  <li>
+    <strong>On group structures of strategic-form games</strong> (with  Zhigang Cao, Zhibin Tan, and Xiaoguang Yang). <em>Fundamental Research</em>, 2025, 4(3).
+    <details>
+      <summary><strong>Abstract</strong></summary>
+      <p>
+      There are two recognized classes of strategic-form symmetric games, both of which can be conveniently defined through the corresponding player symmetry groups. We investigate the basic properties of these groups and several related concepts. We generalize the notion of coveringness and adapt their results to characterize these player symmetry groups. We study the relationships between the coveringnesses of various symmetry groups. Our results demonstrate that these symmetry groups have rich mathematical structures that are of game theoretical and economic interests.
+      </p>
+    </details>
+  </li>
 </ol>
 
 
