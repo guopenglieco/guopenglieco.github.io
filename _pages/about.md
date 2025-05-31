@@ -90,7 +90,7 @@ necessarily negative.
   </li>
 
   <li>
-    <strong>On group structures of strategic-form games</strong> (with  Zhigang Cao, Zhibin Tan, and Xiaoguang Yang). <em>Fundamental Research</em>, 2025, 4(3).
+    <strong>On group structures of strategic-form games</strong> (with  Zhigang Cao,  <a href="https://zhibintanecon.weebly.com/" target="_blank">Zhibin Tan</a>, and Xiaoguang Yang). <em>Fundamental Research</em>, 2025, 4(3).
     <details>
       <summary><strong>Abstract</strong></summary>
       <p>
