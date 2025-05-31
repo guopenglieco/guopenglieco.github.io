@@ -17,24 +17,19 @@ Especially, I want to use game theory to investigate how strategic substitutes b
 
 # Publication
 
-
 <ol>
   <li>
-    <strong>Persuasion in Networks with Strategic Substitutes</strong>  
-    <em>(with <a href="https://ecosunyang.weebly.com/" target="_blank">Yang Sun</a>).</em><br>
-    <em>Journal of Public Economic Theory</em>, 2025, 27(1).
+    <strong>Potentials in Quadratic Cournot Cross-holding Games</strong> (with Zhigang Cao, Sixian Shen, and Feng Zhu). <em>Journal of Mathematical Economics</em>, 2025, 119.
     <details>
       <summary><strong>Abstract</strong></summary>
       <p>
-        We study Bayesian persuasion with local strategic substitutes in networks. A designer commits to a public signal to maximize total activity. Equilibria are characterized by the network’s maximum k insulated sets for each realization. We solve the optimal information structure and characterize beneficial persuasion. While agents individually prefer higher states, the designer’s payoff is non-monotonic in the posterior mean due to substitution effects. This provides a rationale for downplaying mechanisms—revealing low states truthfully and mixing signals when high. Moreover, for tree, nested split, and core-periphery networks, the designer strictly benefits if the prior mean insulated set size is less than the highest state set size.
+        Do firms in an oligopoly market behave “as if” they were maximizing a common fictitious objective function, as in perfect competition and monopoly? The answer is yes under certain mild technical conditions (Slade, 1994). That is, in terms of Monderer and Shapley (1996), the Cournot competition is a potential game. In this paper, we ask the same question for Cournot competition with quadratic payoff functions and cross-holdings, an important variant of the oligopoly market. We find that, for various potential functions, the question can be more easily understood from the structure of the influence network, which is constructed from the cross-holding network. Roughly, we find that the Cournot competition with cross-holdings is a potential game if and only if the influence network is symmetric in certain generalized sense. Extending the model to Cournot competition with both overlapping ownership and product differentiation, we find that the previous results still hold. We also provide two applications of our results.
       </p>
     </details>
   </li>
 
   <li>
-    <strong>Pricing Negative Externalities in Social Networks</strong>  
-    <em>(with Sijie Wang, Yifan Xiong, and Feng Zhu).</em><br>
-    <em>Journal of Mathematical Economics</em>, 2025, 118.
+    <strong>Pricing Negative Externalities in Social Networks</strong> (with Sijie Wang, Yifan Xiong, and Feng Zhu). <em>Journal of Mathematical Economics</em>, 2025, 118.
     <details>
       <summary><strong>Abstract</strong></summary>
       <p>
@@ -42,5 +37,42 @@ Especially, I want to use game theory to investigate how strategic substitutes b
       </p>
     </details>
   </li>
+
+  <li>
+    <strong>Persuasion in Networks with Strategic Substitutes</strong> (with <a href="https://ecosunyang.weebly.com/" target="_blank">Yang Sun</a>). <em>Journal of Public Economic Theory</em>, 2025, 27(1).
+    <details>
+      <summary><strong>Abstract</strong></summary>
+      <p>
+        We study Bayesian persuasion with local strategic substitutes in networks. A designer commits to a public signal to maximize total activity. Equilibria are characterized by the network’s maximum k insulated sets for each realization. We solve the optimal information structure and characterize beneficial persuasion. While agents individually prefer higher states, the designer’s payoff is non-monotonic in the posterior mean due to substitution effects. This provides a rationale for downplaying mechanisms—revealing low states truthfully and mixing signals when high. Moreover, for tree, nested split, and core-periphery networks, the designer strictly benefits if the prior mean insulated set size is less than the highest state set size.
+      </p>
+    </details>
+  </li>
 </ol>
 
+
+# Working Papers
+<ol>
+
+  <li>
+    <strong>Pricing and Information Acquisition in Networks</strong>  
+    <em>(with Yifan Xiong, and Youze Lang).</em> 
+    <em>R&R atGames and Economic Behavior</em>, 2025
+    <details>
+      <summary><strong>Abstract</strong></summary>
+      <p> This paper investigates how a monopolist strategically acquires information from networked consumers with correlated preferences using discriminatory or uniform pricing schemes. Under uniform pricing, the optimal information acquisition problem can
+be efficiently solved in polynomial time by iteratively selecting consumers with the
+highest Katz-Bonacich centrality. By contrast, under discriminatory pricing, the prob-
+lem is generally NP-hard. However, in typical networks, such as complete bipartite,
+core-periphery, and nested-split networks, the optimal targeted group can be charac-
+terized in a straightforward manner: the monopolist simply prioritizes consumers with
+higher degrees. A comparative analysis shows that the size of the optimal targeted
+group decreases with information cost but follows an inverted U-shape with respect to
+preference correlation. Allowing the monopolist to acquire information always reduces
+welfare under discriminatory pricing, whereas under uniform pricing, the impact is not
+necessarily negative.
+      </p>
+    </details>
+  </li>
+
+   
+</ol>
