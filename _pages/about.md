@@ -32,10 +32,19 @@ You can reach me at: guopengli@hust.edu.cn
 
 
   
-  <li>
+ 
+
+</ol>
+
+
+# Publication
+
+<ol>
+
+ <li>
     <strong>Pricing and Information Acquisition in Networks</strong>  
     <em>(with Yifan Xiong, and Youze Lang).</em> 
-    <em>R&R at Games and Economic Behavior</em>, 2025
+    <em>accepted at Games and Economic Behavior</em>, 2025
     <details>
       <summary><strong>Abstract</strong></summary>
       <p> This paper investigates how a monopolist strategically acquires information from networked consumers with correlated preferences using discriminatory or uniform pricing schemes. Under uniform pricing, the optimal information acquisition problem can
@@ -53,12 +62,11 @@ necessarily negative.
     </details>
   </li>
 
-</ol>
 
 
-# Publication
 
-<ol>
+
+  
   <li>
     <strong>Potentials in Quadratic Cournot Cross-holding Games</strong> (with Zhigang Cao, Sixian Shen, and Feng Zhu). <em>Journal of Mathematical Economics</em>, 2025, 119.
     <details>
