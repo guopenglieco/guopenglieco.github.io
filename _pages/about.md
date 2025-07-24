@@ -8,7 +8,7 @@ redirect_from:
 ---
 Welcome to my homepage!
 
-I am a PhD candidate at Huazhong University of Science and Technology. 
+I am a fourth-year PhD candidate at Huazhong University of Science and Technology. 
 
 My research interests include digital economics and network economics.
 
