@@ -17,23 +17,27 @@ You can reach me at: guopengli@hust.edu.cn
 
 # Working Papers
 <ol>
+  <li>
+    <strong>Sure Friends in Unsure Times: Opportunity Network and Activated Subnetwork for Risk-Sharing <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5132125" target="_blank">[SSRN]</a> </strong>  
+    <em>(with Zhigang Cao and <a href="https://sites.google.com/view/yiqingxing/home" target="_blank">    Yiqing Xing   </a>).</em> 2025
+    <details>
+      <summary><strong>Abstract</strong></summary>
+      <p>
+        In a favor exchange (informal risk-sharing) environment, we distinguish an opportunity network from an endogenously activated subnetwork, the former captures pairs of agents who can potentially help each other while the latter represents those who actually provide assistance in equilibrium. We show that an activated subnetwork normally consists of like friends, each having a moderate and similar number of activated links, even when they have diverse degrees in the opportunity network. We find that trees and preferential-attachment networks are generally ineffective for risk-sharing. We also show that an increase in the intensity of negative shocks does not necessarily lead to a decline in social welfare.
+      </p>
+    </details>
+  </li>
 
-<li>
-  <strong>Sure Friends in Unsure Times: Opportunity Network and Activated Subnetwork for Risk-Sharing <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5132125" target="_blank">[SSRN]</a> </strong>  
-  <em>(with Zhigang Cao and <a href="https://sites.google.com/view/yiqingxing/home" target="_blank">    Yiqing Xing   </a>).</em> 2025
-  <details>
-    <summary><strong>Abstract</strong></summary>
-    <p>
-      In a favor exchange (informal risk-sharing) environment, we distinguish an opportunity network from an endogenously activated subnetwork, the former captures pairs of agents who can potentially help each other while the latter represents those who actually provide assistance in equilibrium. We show that an activated subnetwork normally consists of like friends, each having a moderate and similar number of activated links, even when they have diverse degrees in the opportunity network. We find that trees and preferential-attachment networks are generally ineffective for risk-sharing. We also show that an increase in the intensity of negative shocks does not necessarily lead to a decline in social welfare.
-    </p>
-  </details>
-</li>
-
-
-
-  
- 
-
+  <li>
+    <strong>Rewarding Fans or Ripping Them Off? Optimal Personalized Pricing with Network Externalities</strong>  
+    <em>(with Jianyu Xu and Renkun Yang).</em>
+    <details>
+      <summary><strong>Abstract</strong></summary>
+      <p>
+        We study optimal price discrimination in network goods with consumption externalities. A monopolist sets personalized prices based on consumers' network positions: regular consumers, influencers who generate externalities, and followers who receive them. While standard models predict higher prices for followers, we show that under certain conditions, the firm optimally offers them discounts. This partially reversed price discrimination arises when network effects raise follower valuations sufficiently to make inclusive pricing profitable. The result extends to partial observability of network types, continuous demand, general networks, and general distributions. Finally, we investigate the effect of price regulation and information regulation on consumer surplus and social welfare, demonstrating that their effects can reverse depending on the underlying market structure.
+      </p>
+    </details>
+  </li>
 </ol>
 
 
