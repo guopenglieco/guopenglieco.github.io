@@ -29,8 +29,8 @@ You can reach me at: guopengli@hust.edu.cn
   </li>
 
   <li>
-    <strong>Rewarding Fans or Ripping Them Off? Optimal Personalized Pricing with Network Externalities</strong>  
-    <em>(with Jianyu Xu and Renkun Yang).</em>
+    <strong>Rewarding Fans or Ripping Them Off? Optimal Personalized Pricing with Network Externalities <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5952974" target="_blank">[SSRN]</a></strong>  
+    <em>(with Guopeng Li and Renkun Yang).</em> 2025
     <details>
       <summary><strong>Abstract</strong></summary>
       <p>
@@ -39,7 +39,6 @@ You can reach me at: guopengli@hust.edu.cn
     </details>
   </li>
 </ol>
-
 
 # Publication
 
