@@ -18,6 +18,20 @@ You can reach me at: guopenglieco@163.com
 
 # Working Papers
 <ol>
+
+  <li>
+    <strong> The Value of Influence Information <a href="[https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7292659](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7292659)" target="_blank">[SSRN]</a></strong>  
+    <em>(with Jianyu Xu and <a href="https://yangrenkun.weebly.com" target="_blank">    Renkun Yang </a> ). </em> 2026
+    <details>
+      <summary><strong>Highlight</strong></summary>
+      <p>
+       This paper studies how a monopolist acquires consumer-level influence data to personalize prices in a market with positive network externalities. For any acquired dataset, the firm's profit depends on an effective data variance measuring the resolved influence heterogeneity. The optimal untargeted set therefore forms an interval: the monopolist leaves intermediate types unidentified while targeting one or both tails of the influence distribution. The value of influence data is higher in denser or more dispersed networks, and the targeted set expands as data become cheaper or network effects become stronger. The acquisition technology is consequential. Compared with representative random sampling which induces an all-or-nothing acquisition strategy, targeting supports partial acquisition and raises both profit and aggregate consumer surplus when data are costly; When data are cheap, targeting benefits the firm but reduces consumer surplus, yielding an ambiguous welfare impact.
+      </p>
+    </details>
+  </li>
+
+ 
+  
   <li>
     <strong>Sure Friends in Unsure Times: Opportunity Network and Activated Subnetwork for Risk-Sharing <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5132125" target="_blank">[SSRN]</a> </strong>  
     <em>(with Zhigang Cao and <a href="https://sites.google.com/view/yiqingxing/home" target="_blank">    Yiqing Xing   </a>).</em> 2025
@@ -29,16 +43,7 @@ You can reach me at: guopenglieco@163.com
     </details>
   </li>
 
-  <li>
-    <strong>Rewarding Fans or Ripping Them Off? Optimal Personalized Pricing with Network Externalities <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5952974" target="_blank">[SSRN]</a></strong>  
-    <em>(with Jianyu Xu and <a href="https://yangrenkun.weebly.com" target="_blank">    Renkun Yang </a> ). </em> 2025
-    <details>
-      <summary><strong>Abstract</strong></summary>
-      <p>
-        We study optimal price discrimination in network goods with consumption externalities. A monopolist sets personalized prices based on consumers' network positions: regular consumers, influencers who generate externalities, and followers who receive them. While standard models predict higher prices for followers, we show that under certain conditions, the firm optimally offers them discounts. This partially reversed price discrimination arises when network effects raise follower valuations sufficiently to make inclusive pricing profitable. The result extends to partial observability of network types, continuous demand, general networks, and general distributions. Finally, we investigate the effect of price regulation and information regulation on consumer surplus and social welfare, demonstrating that their effects can reverse depending on the underlying market structure.
-      </p>
-    </details>
-  </li>
+
 </ol>
 
 # Publication
