@@ -14,6 +14,7 @@ My research interests include digital economics and network economics.
 
 You can reach me at: guopenglieco@163.com
 
+News: We will be running an online reading group on network games in the Fall 2026 semester. If you are interested, please contact me (guopenglieco@163.com) or Sijie Wang (stillwang@bjtu.edu.cn).
 
 # Working Papers
 <ol>
