@@ -16,6 +16,10 @@ You can reach me at: guopenglieco@163.com
 
 <span style="color: #0066cc; font-weight: bold;">[News]</span> We will be running an online reading group on network games in the Fall 2026 semester. If you are interested, please contact me ([guopenglieco@163.com](mailto:guopenglieco@163.com)) or Sijie Wang ([stillwang@bjtu.edu.cn](mailto:stillwang@bjtu.edu.cn)).
 
+<div style="background-color: #f0f7ff; border-left: 4px solid #0066cc; padding: 12px 15px; margin: 15px 0; border-radius: 4px;">
+  <strong style="color: #0066cc;">News:</strong> We will be running an online reading group on network games in the Fall 2026 semester. If you are interested, please contact me (<a href="mailto:guopenglieco@163.com">guopenglieco@163.com</a>) or Sijie Wang (<a href="mailto:stillwang@bjtu.edu.cn">stillwang@bjtu.edu.cn</a>).
+</div>
+
 # Working Papers
 <ol>
 
@@ -23,7 +27,7 @@ You can reach me at: guopenglieco@163.com
     <strong> The Value of Influence Information <a href="[https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7292659](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7292659)" target="_blank">[SSRN]</a></strong>  
     <em>(with Jianyu Xu and <a href="https://yangrenkun.weebly.com" target="_blank">    Renkun Yang </a> ). </em> 2026
     <details>
-      <summary><strong>Highlight</strong></summary>
+      <summary><strong>Abstract</strong></summary>
       <p>
        This paper studies how a monopolist acquires consumer-level influence data to personalize prices in a market with positive network externalities. For any acquired dataset, the firm's profit depends on an effective data variance measuring the resolved influence heterogeneity. The optimal untargeted set therefore forms an interval: the monopolist leaves intermediate types unidentified while targeting one or both tails of the influence distribution. The value of influence data is higher in denser or more dispersed networks, and the targeted set expands as data become cheaper or network effects become stronger. The acquisition technology is consequential. Compared with representative random sampling which induces an all-or-nothing acquisition strategy, targeting supports partial acquisition and raises both profit and aggregate consumer surplus when data are costly; When data are cheap, targeting benefits the firm but reduces consumer surplus, yielding an ambiguous welfare impact.
       </p>
