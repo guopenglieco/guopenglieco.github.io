@@ -8,8 +8,8 @@ main:
   - title: "Papers"
     url: /publications/
 
-  #- title: "Talks"
-  #  url: /talks/    
+  - title: "Reading Group on Network Games"
+    url: /read_group/    
 
   #b- title: "Teaching"
    # url: /teaching/    
