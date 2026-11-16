@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 title: "CV"
 permalink: /cv/
 author_profile: true
@@ -7,58 +7,48 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+<style>
+.cv-timeline .cv-entry { padding: 14px 0; border-bottom: 1px solid #e2e8f0; }
+.cv-timeline .cv-entry:last-child { border-bottom: 0; }
+.cv-timeline .cv-heading { display: flex; flex-wrap: wrap; justify-content: space-between; align-items: baseline; gap: 4px 20px; line-height: 1.5; }
+.cv-timeline .cv-dates { color: #718096; font-size: 0.88rem; white-space: nowrap; }
+.cv-timeline .cv-detail { margin: 5px 0 0; font-size: 0.95rem; line-height: 1.6; }
+</style>
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+## Academic Employment
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+<div class="cv-timeline">
+  <div class="cv-entry">
+    <div class="cv-heading">
+      <strong>Beijing Jiaotong University</strong>
+      <span class="cv-dates"><time datetime="2026-06">June 2026</time> &ndash; Present</span>
+    </div>
+    <p class="cv-detail">Postdoctoral Researcher<br>School of Economics and Management</p>
+  </div>
+</div>
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+## Education
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+<div class="cv-timeline">
+  <div class="cv-entry">
+    <div class="cv-heading">
+      <strong>Huazhong University of Science and Technology</strong>
+      <span class="cv-dates"><time datetime="2022-09">September 2022</time> &ndash; <time datetime="2026-06">June 2026</time></span>
+    </div>
+    <p class="cv-detail"><em>Ph.D. in Economics</em><br>Advisor: Bin Chen</p>
+  </div>
+  <div class="cv-entry">
+    <div class="cv-heading">
+      <strong>Beijing Jiaotong University</strong>
+      <span class="cv-dates"><time datetime="2019-09">September 2019</time> &ndash; <time datetime="2022-06">June 2022</time></span>
+    </div>
+    <p class="cv-detail"><em>M.S. in Economics</em><br>Advisor: Zhigang Cao</p>
+  </div>
+  <div class="cv-entry">
+    <div class="cv-heading">
+      <strong>Zhongnan University of Economics and Law</strong>
+      <span class="cv-dates"><time datetime="2015-09">September 2015</time> &ndash; <time datetime="2019-06">June 2019</time></span>
+    </div>
+    <p class="cv-detail"><em>B.S. in Economics</em><br>Advisor: Nan Gao</p>
+  </div>
+</div>
