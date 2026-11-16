@@ -8,6 +8,9 @@ main:
   - title: "Papers"
     url: /publications/
 
+  - title: "Network Games Watch"
+    url: /network-games/
+
   # - title: "Reading Group on Network Games"
   #  url: /read_group/    
 
